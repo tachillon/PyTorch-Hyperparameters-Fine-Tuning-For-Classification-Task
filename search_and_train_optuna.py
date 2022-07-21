@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# License: © 2022 Achille-Tâm GUILCHARD All Rights Reserved
+# Author: Achille-Tâm GUILCHARD
+
 import argparse
 from functools import partial
 import numpy as np
